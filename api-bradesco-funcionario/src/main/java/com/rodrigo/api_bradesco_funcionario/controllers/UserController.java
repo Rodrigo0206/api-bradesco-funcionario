@@ -3,8 +3,8 @@ package com.rodrigo.api_bradesco_funcionario.controllers;
 
 import java.util.List;
 
-import com.rodrigo.api_bradesco.entities.User;
-import com.rodrigo.api_bradesco.repositories.UserRepository;
+import com.rodrigo.api_bradesco_funcionario.entities.User;
+import com.rodrigo.api_bradesco_funcionario.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
 
