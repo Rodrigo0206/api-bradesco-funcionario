@@ -32,6 +32,10 @@ dependencies {
 	// Lombok para os testes (opcional, mas recomendado)
 	testCompileOnly 'org.projectlombok:lombok:1.18.30'
 	testAnnotationProcessor 'org.projectlombok:lombok:1.18.30'
+
+	// OpenAPI (Swagger) https://github.com/springdoc/springdoc-openapi
+	implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.1.0'
+
 }
 
 tasks.named('test') {
