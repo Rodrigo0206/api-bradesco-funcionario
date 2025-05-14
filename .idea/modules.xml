@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/api-bradesco-funcionario.iml" filepath="$PROJECT_DIR$/.idea/api-bradesco-funcionario.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.main.iml" filepath="$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.test.iml" filepath="$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.main~1.iml" filepath="$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.main~1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.test~1.iml" filepath="$PROJECT_DIR$/.idea/modules/api-bradesco-funcionario.api-bradesco-funcionario.test~1.iml" />
     </modules>
   </component>
 </project>
