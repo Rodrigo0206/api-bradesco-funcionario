@@ -1,5 +1,5 @@
-API Bradesco - Funcionário
-Olá! 👋
+#API Bradesco - Funcionário
+#Olá! 👋
 Essa é uma API RESTful que desenvolvi para gerenciar o vínculo entre funcionários e seus departamentos.
 
 Funcionalidades
