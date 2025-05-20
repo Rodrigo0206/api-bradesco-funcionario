@@ -1,5 +1,7 @@
-#API Bradesco - Funcionário
-#Olá! 👋
+API Bradesco - Funcionário
+
+Olá! 👋
+
 Essa é uma API RESTful que desenvolvi para gerenciar o vínculo entre funcionários e seus departamentos.
 
 Funcionalidades
@@ -24,7 +26,7 @@ API hospedada na nuvem Railway, com URL pública disponível
 Documentação da API
 Você pode acessar a documentação Swagger da API no link abaixo:
 
-🔗 Swagger - API Funcionário Bradesco
+(https://api-bradesco-funcionario-production-rodrigo.up.railway.app/swagger-ui/index.html)
 
 ```mermaid
 
