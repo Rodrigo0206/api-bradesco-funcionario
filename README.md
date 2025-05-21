@@ -1,6 +1,6 @@
 ## 🧱 Arquitetura do Projeto
 
-![Arquitetura do Projeto](docs/arquitetura-api-bradesco.png)
+![Arquitetura do Projeto](docs/arquitetura-api-restful-bradesco.png)
 
 API Bradesco - Funcionário.
 
