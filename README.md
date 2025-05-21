@@ -1,3 +1,7 @@
+## 🧱 Arquitetura do Projeto
+
+![Arquitetura do Projeto](docs/arquitetura-api-bradesco.png)
+
 API Bradesco - Funcionário.
 
 Olá! 👋.
